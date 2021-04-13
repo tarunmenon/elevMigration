@@ -1,5 +1,3 @@
-setwd("D:/IISC/Sahas_elevation")
-
 ## Clean up Raw ebird data
 ## Input path of ebird raw data and the country it is from
 readcleanrawdata = function(rawpath, Country)
